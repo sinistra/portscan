@@ -1,2 +1,3 @@
-./portscan
 .vscode/
+portscan
+.idea/
